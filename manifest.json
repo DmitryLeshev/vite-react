@@ -1,0 +1,24 @@
+{
+  "name": "PWA application",
+  "short_name": "box",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/resources/chrome-extensionmanagementpage-48-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/resources/chrome-favicon-16-16.png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/resources/chrome-installprocess-128-128.png",
+      "sizes": "128x128"
+    }
+  ]
+}
